@@ -1,4 +1,4 @@
-# Data-visualization-TABLEAU-
+# Dashboard's created on datsets for analysis
 
 This repository contains a collection of Tableau visualizations created by me for the purpose of data visualization for easy understanding and to gain meaningful insights.
 Here's my profile link where you can go through the analysis (https://public.tableau.com/app/profile/daksh.goyal)
